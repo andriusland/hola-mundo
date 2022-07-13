@@ -1,19 +1,18 @@
 {
-    "oneDarkPro.vivid": true,
-    "workbench.colorCustomizations": {
-        "[One Dark Pro]": {
-            "editor.background": "#191328e9",
-            //"editor."
-            "sideBar.background": "#191328e9",
-            "sideBar.border": "#3d1111",
-            "sideBar.foreground": "#acd1e9",
-            //"activityBar.background": "#301345", 
-            "activityBar.background": "#3f081a",
-            "activityBar.foreground": "#7efb02"
-        }
-    },
-    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
-    "editor.codeActionsOnSave": {
-    
+  "oneDarkPro.vivid": true,
+  "workbench.colorCustomizations": {
+    "[One Dark Pro]": {
+      "editor.background": "#191328e9",
+      //"editor."
+      "sideBar.background": "#191328e9",
+      "sideBar.border": "#3d1111",
+      "sideBar.foreground": "#acd1e9",
+      //"activityBar.background": "#301345",
+      "activityBar.background": "#3f081a",
+      "activityBar.foreground": "#7efb02"
     }
+  },
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+  "editor.codeActionsOnSave": {},
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }

@@ -27,7 +27,6 @@ class Greeting extends Component {
           </button>
         </div>
         
-
       </div>
     )
   }
